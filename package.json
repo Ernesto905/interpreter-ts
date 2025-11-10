@@ -1,0 +1,27 @@
+{
+  "name": "interpreter-ts",
+  "version": "1.0.0",
+  "description": "Building out an interpreter in typescript. Following along with https://interpreterbook.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernesto905/interpreter-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ernesto905/interpreter-ts/issues"
+  },
+  "homepage": "https://github.com/Ernesto905/interpreter-ts#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "typescript": "^5.9.3"
+  }
+}
