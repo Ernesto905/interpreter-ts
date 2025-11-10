@@ -2,9 +2,9 @@
   "name": "interpreter-ts",
   "version": "1.0.0",
   "description": "Building out an interpreter in typescript. Following along with https://interpreterbook.com/",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
